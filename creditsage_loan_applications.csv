@@ -1,0 +1,26 @@
+applicant_id,name,age,gender,city,employment_type,employer_name,monthly_income,credit_score,existing_emi,loan_purpose,requested_amount,preferred_tenure_months,down_payment,collateral,years_at_current_job
+1,Arjun Sharma,24,Female,Bengaluru,Business Owner,Sharma Traders,35000,580,0,Personal,500000,12,0,None,1.5
+2,Priya Mehta,28,Female,Mumbai,Salaried,Infosys,55000,610,5000,Home,3500000,300,525000.0,Property,3.2
+3,Rahul Gupta,23,Female,Delhi,Business Owner,Nair & Sons,80000,635,12000,Vehicle,800000,36,80000.0,Vehicle,7.0
+4,Sneha Patel,47,Female,Hyderabad,Salaried,TCS,48000,652,0,Business,2000000,24,0,FD,2.1
+5,Vikram Nair,47,Male,Pune,Business Owner,Sharma Traders,120000,671,25000,Personal,200000,12,0,None,10.5
+6,Ananya Reddy,37,Female,Chennai,Self-Employed,Freelance Consultant,95000,690,8000,Home,7500000,240,1125000.0,Property,5.3
+7,Ravi Kumar,40,Female,Kolkata,Self-Employed,Independent Contractor,42000,705,0,Vehicle,600000,48,60000.0,None,0.8
+8,Deepika Singh,37,Female,Ahmedabad,Business Owner,Kumar Manufacturing,68000,718,15000,Business,500000,48,0,Property,4.6
+9,Mohit Joshi,43,Male,Jaipur,Salaried,HDFC Bank,150000,730,35000,Personal,350000,24,0,None,12.0
+10,Kavya Iyer,57,Female,Noida,Salaried,Deloitte,75000,742,10000,Home,7500000,180,1125000.0,Property,6.1
+11,Suresh Mishra,30,Female,Bengaluru,Salaried,Infosys,32000,758,0,Vehicle,1200000,48,120000.0,None,0.5
+12,Pooja Agarwal,58,Female,Mumbai,Business Owner,Nair & Sons,200000,770,45000,Business,2000000,24,0,Property,15.0
+13,Nikhil Verma,23,Male,Delhi,Salaried,HUL,88000,785,18000,Personal,500000,60,0,None,3.8
+14,Aisha Khan,57,Female,Hyderabad,Self-Employed,Independent Contractor,45000,800,0,Home,2500000,120,375000.0,Property,1.2
+15,Rajesh Pillai,26,Male,Pune,Self-Employed,Independent Contractor,110000,820,22000,Vehicle,400000,36,40000.0,Vehicle,8.5
+16,Tanya Malhotra,58,Female,Chennai,Business Owner,Reddy Exports,62000,645,6000,Business,1000000,36,0,FD,2.9
+17,Ashish Bose,51,Female,Kolkata,Self-Employed,Freelance Designer,38000,699,0,Personal,1000000,24,0,None,0.3
+18,Meena Krishnan,58,Male,Ahmedabad,Salaried,Accenture,175000,710,50000,Home,3500000,120,525000.0,Property,18.0
+19,Harsh Tiwari,27,Female,Jaipur,Salaried,Flipkart,54000,760,9000,Vehicle,800000,36,80000.0,Vehicle,4.1
+20,Ritika Saxena,49,Female,Noida,Salaried,HUL,92000,695,20000,Business,3000000,48,0,Property,7.7
+21,Sameer Rao,29,Male,Bengaluru,Self-Employed,Freelance Consultant,28000,680,0,Personal,200000,24,0,None,0.6
+22,Diya Choudhary,31,Female,Mumbai,Business Owner,Reddy Exports,130000,740,30000,Home,3500000,180,525000.0,Property,9.3
+23,Kiran Dubey,26,Female,Delhi,Business Owner,Sharma Traders,72000,775,14000,Vehicle,400000,36,40000.0,None,3.5
+24,Manish Bansal,48,Female,Hyderabad,Self-Employed,Independent Contractor,49000,625,3000,Business,500000,60,0,Property,1.8
+25,Sonal Jain,58,Male,Pune,Self-Employed,Freelance Developer,165000,810,40000,Personal,750000,24,0,None,22.0
